@@ -1,0 +1,28 @@
+.div_menu{
+  width:100%;
+  color:white;
+ background-color: black;
+ text-transform: uppercase;
+ font-size: 20px;
+ margin-bottom:2%;
+}
+
+.slider{
+  width:665px;
+height:390px;
+p {
+  text-align:justify;
+  margin-bottom: 2%;
+}
+.footer{
+  text-align: center;
+  color:white;
+  background-color: black;
+
+
+}
+.footer-alamat{
+  text-align: center;
+  color:white;
+  background-color: black;
+}
